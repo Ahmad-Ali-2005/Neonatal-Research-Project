@@ -3,8 +3,8 @@
 # How-to-run
 App is in early stages of development with a few pages lacking content and a backend is being built while a domain is aquired.
 
-In order to run in current stage use following commands within terminal after extracting zip file and navigating to folder using:
-cd "your-download-path/neonatal-research"
+In order to run in current stage use following commands within terminal after downloading all files into a workspace folder:
+cd "your/download/path"
 (Replace with your own path)
 
 Then run the following npm commands:
